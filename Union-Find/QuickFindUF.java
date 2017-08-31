@@ -23,5 +23,5 @@ public class QuickFindUF {
     for(int i = 0; i < id.length;i++)
       if (id[i] == pid) id[i] = qid; 
     }
-
-}
+    
+  }
